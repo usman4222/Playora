@@ -1,0 +1,4 @@
+- [x] Build the full responsive Sticky Sand Art landing page with all supplied content and imagery.
+- [x] Add accessible navigation, FAQ, motion, metadata, and a transparent purchase state.
+- [x] Verify desktop and mobile presentation and interactions.
+- [x] Add restrained scroll reveals and interaction animations, including reduced-motion support.
