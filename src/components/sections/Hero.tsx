@@ -9,9 +9,6 @@ export function Hero() {
     <section id="home" className="overflow-hidden surface-hero">
       <div className="section-wrap grid items-center gap-10 pb-12 pt-12 lg:min-h-[650px] lg:grid-cols-[0.95fr_1.05fr] lg:gap-12 lg:py-16">
         <div className="hero-copy relative z-10 max-w-xl">
-          <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-primary/20 bg-secondary/40 px-4 py-2 text-xs font-bold text-primary sm:text-sm">
-            <Sparkles size={15} /> Create. Peel. Pour. Shake. Sparkle.
-          </div>
           <h1 className="font-display text-[2.4rem] font-black leading-[1.08] sm:text-6xl lg:text-[4.5rem]">
             Turn Every Picture Into a <span className="text-primary">Colorful Sand Art</span>{" "}
             Masterpiece!
